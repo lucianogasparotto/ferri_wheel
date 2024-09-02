@@ -1,0 +1,1 @@
+A small exercise from freeCampCode of a Ferri Wheel and I learnd how to use @keyframes to animate using css style.
